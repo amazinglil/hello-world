@@ -1,2 +1,5 @@
 # hello-world
-hi again
+it's me again 👋
+i`m gonna try my best to follow the guide this time 
+😄
+🩹
